@@ -9,8 +9,6 @@ Our dataset is accessible through:
 * [Hugging face](https://huggingface.co/datasets/lucas0927/MetaWild)
 
 ---
-
-## Paper
 <div align="center">
   <a href="https://dl.acm.org/doi/10.1145/3746027.3758249">
     <img src="https://img.shields.io/badge/ACM%20DL-Paper-0A0A0A?style=for-the-badge&logo=acm&logoColor=white" alt="ACM Digital Library Paper">
@@ -19,15 +17,10 @@ Our dataset is accessible through:
 
 If you use MetaWild in your work, please [read the paper](https://dl.acm.org/doi/10.1145/3746027.3758249) for full methodology and results.
 
----
-
 ## Citation
-Please cite MetaWild if you use the dataset or MFA in your research:
+If you use our dataset, code or find MFA useful, please cite our paper in your work as:
 
-<details>
-<summary><b>BibTeX</b></summary>
-
-```bibtex
+```bib
 @inproceedings{li2025metawild,
   title={MetaWild: A Multimodal Dataset for Animal Re-Identification with Environmental Metadata},
   author={Li, Yuzhuo and Zhao, Di and Qiao, Tingrui and Wu, Yihao and Pang, Bo and Koh, Yun Sing},
@@ -36,7 +29,6 @@ Please cite MetaWild if you use the dataset or MFA in your research:
   year={2025}
 }
 ```
-</details>
 
 ---
 
