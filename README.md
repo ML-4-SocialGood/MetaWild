@@ -20,7 +20,7 @@ If you use MetaWild in your work, please [read the paper](https://dl.acm.org/doi
 ## Citation
 If you use our dataset, code or find MFA useful, please cite our paper in your work as:
 
-```bib
+```text
 @inproceedings{li2025metawild,
   title={MetaWild: A Multimodal Dataset for Animal Re-Identification with Environmental Metadata},
   author={Li, Yuzhuo and Zhao, Di and Qiao, Tingrui and Wu, Yihao and Pang, Bo and Koh, Yun Sing},
